@@ -1,7 +1,7 @@
-#CrNode.js & Express CRUD API
+# CrNode.js & Express CRUD API
 This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using Node.js and Express.js. It is designed to help understand backend development concepts such as REST APIs, routing, controllers, and API testing using Postman.
 
-#Features
+# Features
 RESTful API architecture
 
 Express routing
@@ -12,7 +12,7 @@ In-memory data storage
 
 Tested using Postman
 
-#Technologies Used
+# Technologies Used
 Node.js
 
 Express.js
